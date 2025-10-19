@@ -31,7 +31,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/bajfinance-stock-prediction.git
+git clone https://github.com/neptunezprime/bajfinance-stock-prediction.git
 
 
 Navigate to the project folder:
